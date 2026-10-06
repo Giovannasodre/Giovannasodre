@@ -1,16 +1,20 @@
-## Hi there 👋
+ Olá, eu sou Giovanna Sodré! 👋
 
-<!--
-**Giovannasodre/Giovannasodre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em criar soluções incríveis e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
+- 🔭 Atualmente estou trabalhando no projeto UmHelp
+- 🌱 Aprendendo mais sobre Banco de dado em SQL e PHP
+- 📫 Como me encontrar: giovannasodre1004@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minhas Habilidades 
+![PHPt](https://shields.io)
+![HTML](https://shields.io)
+![CSS](https://shields.io)
+
+## 📊 Estatísticas do GitHub (Tema Dracula)
+![Estatísticas do GitHub](https://vercel.app)
+![As Linguagens Mais Usadas](https://vercel.app)
+
+## 🔗 Redes Sociais
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/giovanna-sodré-92b125220/)
